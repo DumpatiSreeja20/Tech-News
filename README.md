@@ -48,7 +48,7 @@ git clone https://github.com/your-username/tech-news-website.git
 
 ---
 ### 🙌 Thank You!
-👩‍💻 **Developed by:** Grishma Gedela ([GRISHMA-GEDELA](https://github.com/grishma-gedela), Tech News)
+👩‍💻 **Developed by:** Grishma Gedela ([Sreeja_dumpati](https://github.com/DumpatiSreeja20/), Tech News)
 
 
 
